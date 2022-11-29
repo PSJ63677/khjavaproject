@@ -2,7 +2,7 @@ package com.kh.day04.exercise;
 
 import java.util.Scanner;
 
-public class Excercise_While2 {
+public class Exercise_While2 {
 	public static void main(String [] args) {
 		// 정수를 하나 입력받아서 그 수가 1 ~ 9 사이의 수일 때만
 		// 그 수의 구구단을 출력하세요.
