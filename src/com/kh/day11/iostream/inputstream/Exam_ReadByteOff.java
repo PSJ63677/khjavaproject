@@ -17,7 +17,7 @@ public class Exam_ReadByteOff {
 			for(int i = 0; i < readBytes.length; i++) {
 				System.out.print(readBytes[i]);
 			}
-		} catch(FileNotFoundException e) {
+		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
 			e.printStackTrace();
